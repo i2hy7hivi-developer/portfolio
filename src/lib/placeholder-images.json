@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "profile-picture",
+      "description": "A professional headshot of Rhythm Dubey.",
+      "imageUrl": "https://images.unsplash.com/photo-1576558656222-ba66febe3dec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cHJvZmVzc2lvbmFsJTIwaGVhZHNob3R8ZW58MHx8fHwxNzYxOTkwNDY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "professional headshot"
+    },
+    {
+      "id": "project-transport-crm",
+      "description": "Screenshot of a Transport CRM dashboard.",
+      "imageUrl": "https://images.unsplash.com/photo-1610913721979-b20ede600e63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxkYXNoYm9hcmQlMjBhbmFseXRpY3N8ZW58MHx8fHwxNzYxOTQxODE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dashboard analytics"
+    },
+    {
+      "id": "project-property-mgmt",
+      "description": "Interface of a Property Management System.",
+      "imageUrl": "https://images.unsplash.com/photo-1558036117-15d82a90b9b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cmVhbCUyMGVzdGF0ZXxlbnwwfHx8fDE3NjE5MjkzMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "real estate"
+    },
+    {
+      "id": "project-accounts-mgmt",
+      "description": "An Accounts Management System showing financial reports.",
+      "imageUrl": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmaW5hbmNlJTIwY2hhcnR8ZW58MHx8fHwxNzYxOTI5MTk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "finance chart"
+    },
+    {
+      "id": "project-catering-order",
+      "description": "UI for a catering order management system.",
+      "imageUrl": "https://images.unsplash.com/photo-1758634553706-662cb7e38de4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Zm9vZCUyMG9yZGVyfGVufDB8fHx8MTc2MTk5MDYwOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "food order"
+    },
+    {
+      "id": "project-ecommerce",
+      "description": "An e-commerce website front page.",
+      "imageUrl": "https://images.unsplash.com/photo-1539278383962-a7774385fa02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8b25saW5lJTIwc2hvcHBpbmd8ZW58MHx8fHwxNzYxOTc3Njc3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "online shopping"
+    }
+  ]
+}
